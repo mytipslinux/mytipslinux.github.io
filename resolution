@@ -1,0 +1,9 @@
+xs <     768 px     phones       all
+sm >=    768 px     tablets      750 px
+md >=    992 px     desktop      970 px
+lg >=   1200 px     large D      1170 px
+
+sm 1 elem /ligne
+tablet 2 elem
+desktop 3 elem
+LD      4 elem
